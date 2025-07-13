@@ -1,16 +1,46 @@
-# flutter_lab_project
+# 🧠 Smart Task Manager with Deadline Alerts (Firebase Integration)
 
-A new Flutter project.
+A modern **Flutter app** that lets users create, edit, delete, and manage their daily tasks with **deadline alerts**, **custom notifications**, and **Firebase backend integration**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ Add, edit, and delete tasks  
+✅ Set deadlines using date & time picker  
+✅ Set **reminder notifications** (5 mins to 24 hrs before)  
+✅ Integrate with Firebase Authentication and Firestore  
+✅ Enable/disable notifications per task  
+✅ Schedule future alerts using `flutter_local_notifications`  
+✅ Beautiful UI built with Flutter Material components
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Tech Stack
+
+- **Flutter** 🐦
+- **Firebase Firestore** 🔥 (for storing tasks)
+- **Firebase Auth** 🔐 (user-specific task data)
+- **flutter_local_notifications** ⏰ (for deadline alerts)
+- **Provider** 📦 (for state management)
+- **Intl** 📆 (for date/time formatting)
+
+---
+
+## 📸 Screenshots
+
+<!-- Replace these with actual screenshots after uploading to /assets/screenshots or your GitHub -->
+
+| Home Screen | Add Task | Notification Reminder |
+|-------------|----------|------------------------|
+| ![Home](assets/screenshots/home.png) | ![Add Task](assets/screenshots/add_task.png) | ![Notification](assets/screenshots/notification.png) |
+
+---
+
+## 🛠 Getting Started
+
+### 1. Clone this repository
+
+```bash
+git clone https://github.com/your-username/flutter_lab_project.git
+cd flutter_lab_project
