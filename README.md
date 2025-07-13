@@ -31,8 +31,8 @@ A modern **Flutter app** that lets users create, edit, delete, and manage their 
 
 <!-- Replace these with actual screenshots after uploading to /assets/screenshots or your GitHub -->
 
-| Home Screen | Add Task | Notification Reminder |
-|-------------|----------|------------------------|
+| Home Screen                          | Add Task                                     | Calender                                             |
+| ------------------------------------ | -------------------------------------------- | ---------------------------------------------------- |
 | ![Home](assets/screenshots/home.png) | ![Add Task](assets/screenshots/add_task.png) | ![Notification](assets/screenshots/notification.png) |
 
 ---
@@ -44,3 +44,4 @@ A modern **Flutter app** that lets users create, edit, delete, and manage their 
 ```bash
 git clone https://github.com/your-username/flutter_lab_project.git
 cd flutter_lab_project
+```
